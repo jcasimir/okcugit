@@ -1,0 +1,23 @@
+commit fe75c3b7843a1aba986a4ebc2c576b1289c19779
+Author: Casey Ann Cumbow <cumbow8@gmail.com>
+Date:   Fri Jul 22 08:20:32 2016 -0600
+
+    adds 1605 survey
+
+commit dd0d5d134b3d88c639f71a081f62e3317ede3121
+Author: rrgayhart <rrgayhart@gmail.com>
+Date:   Thu Jul 21 19:46:31 2016 -0600
+
+    Add details for mod 4
+
+commit ba366c7e2049000b902eb9385945ef3e4136da2a
+Author: Michael Dao <michael.dao@gmail.com>
+Date:   Thu Jul 21 17:55:56 2016 -0600
+
+    Friday friday gotta getting down on friday
+
+commit 714d41cfe13871934926f7be23dca4a1c11c28e8
+Author: Andrew Carmer <carmerandrew@gmail.com>
+Date:   Thu Jul 21 11:11:15 2016 -0600
+
+    add git lessons 1605

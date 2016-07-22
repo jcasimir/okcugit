@@ -1,0 +1,5 @@
+commit 14757e2331feef4d1dfb3c940635d62527077a26
+Author: Jeff Casimir <jeff@casimircreative.com>
+Date:   Fri Jul 22 08:56:40 2016 -0600
+
+    Notes for 1606
